@@ -11,4 +11,4 @@ A Powerful Image converter that converts any and every Image format to PNG the b
 
 
 
-Copyright [Year] [Your Name]. All Rights Reserved.
+Copyright 2023 Bozhidar Botev. All Rights Reserved.
